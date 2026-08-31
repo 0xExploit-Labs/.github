@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xExploit-Labs/.github/main/profile/banner.webp" alt="0xExploit Labs — open-source offensive security tooling" width="100%">
-</div>
 
-<div align="center">
-  <a href="https://www.0xexploitlabs.org"><img alt="Website" src="https://img.shields.io/badge/website-0xexploitlabs.org-21d2ed?style=flat-square&labelColor=0d0d0f"></a>
-  <a href="https://x.com/0xExploitLabs"><img alt="X" src="https://img.shields.io/badge/follow-@0xExploitLabs-21d2ed?style=flat-square&labelColor=0d0d0f"></a>
-  <a href="https://www.0xexploitlabs.org/legal/security"><img alt="Security policy" src="https://img.shields.io/badge/security-policy-21d2ed?style=flat-square&labelColor=0d0d0f"></a>
-  <img alt="Licence" src="https://img.shields.io/badge/licence-MIT-21d2ed?style=flat-square&labelColor=0d0d0f">
+<img src="https://raw.githubusercontent.com/0xExploit-Labs/.github/main/profile/banner.webp" alt="0xExploit Labs — break it before they do" width="100%">
+
+<br><br>
+
+[![Website](https://img.shields.io/badge/0xexploitlabs.org-21d2ed?style=flat-square&labelColor=0d0d0f&label=website)](https://www.0xexploitlabs.org)
+[![X](https://img.shields.io/badge/@0xExploitLabs-21d2ed?style=flat-square&labelColor=0d0d0f&label=follow&logo=x&logoColor=white)](https://x.com/0xExploitLabs)
+[![Security](https://img.shields.io/badge/disclosure-21d2ed?style=flat-square&labelColor=0d0d0f&label=security)](https://www.0xexploitlabs.org/legal/security)
+[![Licence](https://img.shields.io/badge/MIT-21d2ed?style=flat-square&labelColor=0d0d0f&label=licence)](https://opensource.org/licenses/MIT)
+
 </div>
 
 <br>
-
-## Break it before they do
 
 We build the offensive security tooling we wanted to use: **open, auditable and free**.
 
@@ -22,7 +22,7 @@ Recon, scanning and continuous exposure testing that runs on your laptop, in you
 One toolkit covering the whole path from an unknown surface to a result you can act on.
 
 | Stage | What it does |
-| --- | --- |
+| :-- | :-- |
 | **Discover** | Find the assets that exist before deciding what to test |
 | **Enrich** | Turn a raw host list into something with context attached |
 | **Detect** | Match known-bad conditions against what you found |
@@ -38,15 +38,17 @@ One toolkit covering the whole path from an unknown surface to a result you can 
 
 ## Status
 
-> **Nothing is published yet.**
+> [!NOTE]
+> **Nothing is published yet.** Repositories go public as they reach a state worth running.
 
-Repositories go public as they reach a state worth running. No waitlist, no early access — watch this organisation and releases show up here before anywhere else.
+No waitlist, no early access — watch this organisation and releases show up here before anywhere else.
 
 We would rather ship one tool that works than announce five that do not.
 
 ## Before you run any of this
 
-These are offensive security tools. They belong on assets you own, or on assets you have **written authorisation** to assess.
+> [!WARNING]
+> These are offensive security tools. They belong on assets you own, or on assets you have **written authorisation** to assess.
 
 Scanning infrastructure you do not have permission to touch is unlawful in most jurisdictions, and no licence granted here changes that.
 
@@ -69,5 +71,5 @@ Please do not open a public issue for a security bug — it discloses the proble
 ---
 
 <div align="center">
-  <sub><a href="https://www.0xexploitlabs.org">0xexploitlabs.org</a> · <a href="mailto:hello@0xexploitlabs.org">hello@0xexploitlabs.org</a></sub>
+<sub><a href="https://www.0xexploitlabs.org">0xexploitlabs.org</a> · <a href="mailto:hello@0xexploitlabs.org">hello@0xexploitlabs.org</a></sub>
 </div>
