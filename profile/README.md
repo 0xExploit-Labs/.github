@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xExploit-Labs/.github/main/profile/banner.webp" alt="0xExploit Labs — break it before they do" width="100%">
+<img src="https://raw.githubusercontent.com/0xExploit-Labs/.github/main/profile/banner-hero.webp" alt="0xExploit Labs — break it before they do" width="100%">
 
-<br><br>
-
-[![Website](https://img.shields.io/badge/0xexploitlabs.org-21d2ed?style=flat-square&labelColor=0d0d0f&label=website)](https://www.0xexploitlabs.org)
-[![X](https://img.shields.io/badge/@0xExploitLabs-21d2ed?style=flat-square&labelColor=0d0d0f&label=follow&logo=x&logoColor=white)](https://x.com/0xExploitLabs)
-[![Security](https://img.shields.io/badge/disclosure-21d2ed?style=flat-square&labelColor=0d0d0f&label=security)](https://www.0xexploitlabs.org/legal/security)
-[![Licence](https://img.shields.io/badge/MIT-21d2ed?style=flat-square&labelColor=0d0d0f&label=licence)](https://opensource.org/licenses/MIT)
+**[Website](https://www.0xexploitlabs.org)**&nbsp; · &nbsp;[Security policy](https://www.0xexploitlabs.org/legal/security)&nbsp; · &nbsp;[Contact](https://www.0xexploitlabs.org/contact)&nbsp; · &nbsp;[X](https://x.com/0xExploitLabs)&nbsp; · &nbsp;[Instagram](https://www.instagram.com/0xexploit.labs/)
 
 </div>
-
-<br>
 
 We build the offensive security tooling we wanted to use: **open, auditable and free**.
 
