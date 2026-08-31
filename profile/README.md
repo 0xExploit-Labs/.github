@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xExploit-Labs/.github/main/profile/banner-hero.webp" alt="0xExploit Labs — break it before they do" width="100%">
+<img src="https://raw.githubusercontent.com/0xExploit-Labs/.github/main/profile/banner-d4742cdc.webp" alt="0xExploit Labs — break it before they do" width="100%">
 
 **[Website](https://www.0xexploitlabs.org)**&nbsp; · &nbsp;[Security policy](https://www.0xexploitlabs.org/legal/security)&nbsp; · &nbsp;[Contact](https://www.0xexploitlabs.org/contact)&nbsp; · &nbsp;[X](https://x.com/0xExploitLabs)&nbsp; · &nbsp;[LinkedIn](https://www.linkedin.com/company/144596930)&nbsp; · &nbsp;[Instagram](https://www.instagram.com/0xexploit.labs/)
 
